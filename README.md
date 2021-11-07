@@ -2,7 +2,6 @@
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning TypeScript
 
-<!---
-filipton/filipton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 𝗦𝘁𝗮𝘁𝘀
+
+![filipton's github stats](https://github-readme-stats.vercel.app/api?username=filipton&show_icons=true&theme=dracula)

@@ -3,8 +3,8 @@
 [![](https://img.shields.io/badge/-@filipton-%23181717?style=flat-square&logo=github)](https://github.com/filipton)
 ![](https://img.shields.io/badge/-filipton-%23181717?style=flat-square&logo=discord)
 
-- 👀 I’m interested in C#, C++, Java, 
-- 🌱 I’m currently learning TypeScript
+- 👀 I’m interested in C#, C++, Java, TypeScript, SvelteKit, 
+- 🌱 I’m currently learning Rust
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
